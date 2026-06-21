@@ -1,4 +1,4 @@
-﻿using HyperRTS.Core;
+using HyperRTS.Core;
 using Unity.Entities;
 using UnityEngine;
 

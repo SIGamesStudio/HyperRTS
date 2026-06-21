@@ -1,9 +1,11 @@
 {
-  "name": "HyperRTS.Core",
-  "rootNamespace": "HyperRTS.Core",
+  "name": "HyperRTS.Presentation",
+  "rootNamespace": "HyperRTS.Presentation",
   "references": [
+    "HyperRTS.Core",
+    "HyperRTS.Simulation",
     "Unity.Entities",
-    "Unity.Transforms",
+    "Unity.Entities.Graphics",
     "Unity.Mathematics",
     "Unity.Collections",
     "Unity.Burst"
